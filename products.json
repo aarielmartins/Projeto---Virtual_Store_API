@@ -20,21 +20,22 @@
     },
     {
       "id": 2,
-      "titulo": "Puff Nó",
-      "categoria": "Puff",
-      "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790791249/Imagem_do_ChatGPT_30_de_set._de_2026_14_57_12_rseg95.png",
-      "valor": 350.0,
-      "descricao": "Puff artesanal revestido por uma trama volumosa de pontos em relevo, criando uma superfície macia e marcante. O formato baixo e arredondado permite usá-lo como assento auxiliar ou apoio para os pés.",
-      "composicao": "Capa crochetada à mão em cordão de algodão natural, enchimento em espuma de alta densidade e fibra siliconada",
-      "dimensoes": {
-        "largura": "62 cm",
-        "profundidade": "62 cm",
-        "altura": "38 cm"
-      },
+      "titulo": "Vestido Terra",
+      "categoria": "Vestido",
+      "colecao": "vestir",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790793675/Imagem_do_ChatGPT_30_de_set._de_2026_15_40_52_lc1tbz.png",
+      "valor": 549.0,
+      "descricao": "Vestido curto de alças finas confeccionado em crochê de trama encorpada, com modelagem levemente ajustada e aplicações artesanais na barra.",
+      "composicao": "100% algodão, tecido à mão em crochê, com aplicações decorativas em fio metalizado",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
       "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "10 a 20 dias úteis"
+      "entrega": "7 a 15 dias úteis"
     },
     {
       "id": 3,
@@ -93,22 +94,21 @@
     },
     {
       "id": 6,
-      "titulo": "Blusa Renda",
-      "categoria": "Blusa",
-      "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790792908/Imagem_do_ChatGPT_30_de_set._de_2026_15_28_09_uppaz6.png",
-      "valor": 189.0,
-      "descricao": "Blusa ampla em linho natural com mangas largas e bordados vazados de inspiração botânica.",
-      "composicao": "100% linho, com bordados em fio de algodão e forro frontal em cambraia de algodão",
-      "tamanhos": [
-        "P",
-        "M",
-        "G",
-        "GG"
-      ],
-      "feitoAMao": true,
-      "origem": "Brasil",
-      "entrega": "7 a 15 dias úteis"
+        "titulo": "Poltrona Orbe",
+        "categoria": "Poltrona",
+        "colecao": "habitar",
+        "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790794489/Imagem_do_ChatGPT_30_de_set._de_2026_15_52_15_snfk7p.png",
+        "valor": 890.0,
+        "descricao": "Poltrona escultural de formas arredondadas, com base em arco e encosto cilíndrico que cria uma composição leve e inesperada.",
+        "composicao": "Estrutura em madeira de eucalipto, espuma de alta densidade e revestimento em tecido de linho e algodão",
+        "dimensoes": {
+          "largura": "92 cm",
+          "profundidade": "72 cm",
+          "altura": "86 cm"
+        },
+        "feitoAMao": true,
+        "origem": "Brasil",
+        "entrega": "15 a 25 dias úteis"
     },
     {
       "id": 7,
@@ -131,22 +131,21 @@
     },
     {
       "id": 8,
-      "titulo": "Vestido Terra",
-      "categoria": "Vestido",
-      "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790793675/Imagem_do_ChatGPT_30_de_set._de_2026_15_40_52_lc1tbz.png",
-      "valor": 549.0,
-      "descricao": "Vestido curto de alças finas confeccionado em crochê de trama encorpada, com modelagem levemente ajustada e aplicações artesanais na barra.",
-      "composicao": "100% algodão, tecido à mão em crochê, com aplicações decorativas em fio metalizado",
-      "tamanhos": [
-        "P",
-        "M",
-        "G",
-        "GG"
-      ],
+      "titulo": "Puff Nó",
+      "categoria": "Puff",
+      "colecao": "habitar",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790791249/Imagem_do_ChatGPT_30_de_set._de_2026_14_57_12_rseg95.png",
+      "valor": 350.0,
+      "descricao": "Puff artesanal revestido por uma trama volumosa de pontos em relevo, criando uma superfície macia e marcante. O formato baixo e arredondado permite usá-lo como assento auxiliar ou apoio para os pés.",
+      "composicao": "Capa crochetada à mão em cordão de algodão natural, enchimento em espuma de alta densidade e fibra siliconada",
+      "dimensoes": {
+        "largura": "62 cm",
+        "profundidade": "62 cm",
+        "altura": "38 cm"
+      },
       "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "7 a 15 dias úteis"
+      "entrega": "10 a 20 dias úteis"
     },
     {
       "id": 9,
@@ -170,21 +169,22 @@
     },
     {
       "id": 10,
-        "titulo": "Poltrona Orbe",
-        "categoria": "Poltrona",
-        "colecao": "habitar",
-        "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790794489/Imagem_do_ChatGPT_30_de_set._de_2026_15_52_15_snfk7p.png",
-        "valor": 890.0,
-        "descricao": "Poltrona escultural de formas arredondadas, com base em arco e encosto cilíndrico que cria uma composição leve e inesperada.",
-        "composicao": "Estrutura em madeira de eucalipto, espuma de alta densidade e revestimento em tecido de linho e algodão",
-        "dimensoes": {
-          "largura": "92 cm",
-          "profundidade": "72 cm",
-          "altura": "86 cm"
-        },
+        "titulo": "Blusa Renda",
+        "categoria": "Blusa",
+        "colecao": "vestir",
+        "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790792908/Imagem_do_ChatGPT_30_de_set._de_2026_15_28_09_uppaz6.png",
+        "valor": 189.0,
+        "descricao": "Blusa ampla em linho natural com mangas largas e bordados vazados de inspiração botânica.",
+        "composicao": "100% linho, com bordados em fio de algodão e forro frontal em cambraia de algodão",
+        "tamanhos": [
+          "P",
+          "M",
+          "G",
+          "GG"
+        ],
         "feitoAMao": true,
         "origem": "Brasil",
-        "entrega": "15 a 25 dias úteis"
+        "entrega": "7 a 15 dias úteis"
     },
     {
       "id": 11,
