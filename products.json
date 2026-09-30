@@ -2,201 +2,203 @@
   "products": [
     {
       "id": 1,
-      "titulo": "Sofá Onda",
-      "categoria": "Sofá",
+      "titulo": "Poltrona Casulo",
+      "categoria": "Poltrona",
       "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918864/sofa-onda_dnqmpi.png",
-      "valor": 8490.0,
-      "descricao": "Sofá de três lugares em bouclé cru, base em madeira maciça. Estrutura reforçada e espuma de alta densidade para durabilidade no dia a dia.",
-      "composicao": "100% bouclé (poliéster reciclado), base em madeira de eucalipto certificada",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790790873/Imagem_do_ChatGPT_30_de_set._de_2026_14_52_37_xdxi2c.png",
+      "valor": 890.0,
+      "descricao": "Poltrona de formas envolventes revestida em bouclé cru, com encosto curvo e assento amplo. Não acompanha a almofada.",
+      "composicao": "Bouclé de algodão e lã, estrutura em madeira de eucalipto e pés em madeira maciça",
       "dimensoes": {
-        "largura": "210 cm",
-        "profundidade": "90 cm",
-        "altura": "78 cm"
-      },
-      "feitoAMao": true,
-      "origem": "Brasil",
-      "entrega": "7 a 15 dias úteis"
+        "largura": "105 cm",
+        "profundidade": "92 cm",
+        "altura": "76 cm"
+  },
+  "feitoAMao": true,
+  "origem": "Brasil",
+  "entrega": "10 a 20 dias úteis"
     },
     {
       "id": 2,
-      "titulo": "Puff Lua",
+      "titulo": "Puff Nó",
       "categoria": "Puff",
       "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918858/puff-lua-1_j6dbrn.png",
-      "valor": 890.0,
-      "descricao": "Puff redondo em linho encorpado, recheio em fibra siliconizada. Leve o suficiente para circular entre os ambientes da casa.",
-      "composicao": "100% linho natural, enchimento em fibra siliconizada",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790791249/Imagem_do_ChatGPT_30_de_set._de_2026_14_57_12_rseg95.png",
+      "valor": 350.0,
+      "descricao": "Puff artesanal revestido por uma trama volumosa de pontos em relevo, criando uma superfície macia e marcante. O formato baixo e arredondado permite usá-lo como assento auxiliar ou apoio para os pés.",
+      "composicao": "Capa crochetada à mão em cordão de algodão natural, enchimento em espuma de alta densidade e fibra siliconada",
       "dimensoes": {
-        "diametro": "55 cm",
+        "largura": "62 cm",
+        "profundidade": "62 cm",
         "altura": "38 cm"
       },
       "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "5 a 10 dias úteis"
+      "entrega": "10 a 20 dias úteis"
     },
     {
       "id": 3,
-      "titulo": "Cabeceira Arco",
+      "titulo": "Cabeceira Entrelaço",
       "categoria": "Cabeceira",
       "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918772/cabeceira-arco-1_dm3ot8.png",
-      "valor": 2390.0,
-      "descricao": "Cabeceira estofada com curva suave, forrada em algodão encorpado. Estrutura em MDF com fixação universal para a maioria das camas.",
-      "composicao": "100% algodão encorpado, estrutura em MDF, espuma D28",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790791793/Imagem_do_ChatGPT_30_de_set._de_2026_15_09_21_byvjfn.png",
+      "valor": 2490.0,
+      "descricao": "Cabeceira artesanal em madeira maciça com trama manual em corda de algodão cru. O desenho geométrico valoriza o entrelaçamento das fibras e cria uma peça leve e acolhedora para o quarto.",
+      "composicao": "Estrutura em madeira maciça de eucalipto e trama feita à mão em corda 100% algodão",
       "dimensoes": {
         "largura": "140 cm",
-        "altura": "90 cm",
-        "profundidade": "8 cm"
+        "profundidade": "10 cm",
+        "altura": "120 cm"
       },
       "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "10 a 18 dias úteis"
+      "entrega": "15 a 25 dias úteis"
     },
     {
       "id": 4,
       "titulo": "Cama Nuvem",
       "categoria": "Cama",
       "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918826/cama-nuvem_hgmdfu.png",
-      "valor": 6290.0,
-      "valorComDesconto": 5290.0,
-      "descricao": "Base estofada em linho cinza-claro, com pés em madeira maciça torneada. Design baixo, inspirado em quartos minimalistas.",
-      "composicao": "100% linho, estrutura em madeira de pinus reflorestado",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790792257/Imagem_do_ChatGPT_30_de_set._de_2026_15_17_17_zo289c.png",
+      "valor": 7290.0,
+      "descricao": "Cama estofada de perfil baixo, com cabeceira curva que envolve as laterais e cria uma sensação de aconchego. As mesas de apoio integradas reforçam seu desenho contemporâneo e funcional.",
+      "composicao": "Estrutura em madeira de eucalipto certificada, espuma de alta densidade e revestimento em tecido bouclé de algodão",
       "dimensoes": {
-        "largura": "158 cm",
-        "comprimento": "203 cm",
-        "altura": "35 cm"
+        "largura": "235 cm",
+        "profundidade": "245 cm",
+        "altura": "92 cm"
       },
       "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "10 a 18 dias úteis"
+      "entrega": "20 a 30 dias úteis"
     },
     {
       "id": 5,
-      "titulo": "Moletom Trama",
-      "categoria": "Moletom",
+      "titulo": "Kimono Rede",
+      "categoria": "Kimono",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918849/moletom-trama_x8j4eu.png",
-      "valor": 349.0,
-      "descricao": "Moletom com capuz em algodão orgânico flanelado, corte oversized e bolso canguru. Peça atemporal para qualquer estação.",
-      "composicao": "100% algodão orgânico flanelado",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790792486/Imagem_do_ChatGPT_30_de_set._de_2026_15_21_05_ws2595.png",
+      "valor": 429.0,
+      "descricao": "Kimono de trama aberta com caimento amplo e mangas largas, pensado como uma terceira peça leve para sobreposições. ",
+      "composicao": "100% algodão natural",
       "tamanhos": [
         "P",
         "M",
         "G",
         "GG"
       ],
-      "feitoAMao": false,
+      "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "5 a 10 dias úteis"
+      "entrega": "7 a 15 dias úteis"
     },
     {
       "id": 6,
-      "titulo": "Camiseta Base",
-      "categoria": "Camiseta",
+      "titulo": "Blusa Renda",
+      "categoria": "Blusa",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918836/camiseta-base-1_fxjgto.png",
-      "valor": 149.0,
-      "descricao": "Camiseta básica em algodão pima, gola careca reforçada e caimento reto. A peça-coringa de qualquer guarda-roupa.",
-      "composicao": "100% algodão pima",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790792908/Imagem_do_ChatGPT_30_de_set._de_2026_15_28_09_uppaz6.png",
+      "valor": 189.0,
+      "descricao": "Blusa ampla em linho natural com mangas largas e bordados vazados de inspiração botânica.",
+      "composicao": "100% linho, com bordados em fio de algodão e forro frontal em cambraia de algodão",
       "tamanhos": [
-        "PP",
         "P",
         "M",
         "G",
         "GG"
       ],
-      "feitoAMao": false,
+      "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "5 a 10 dias úteis"
+      "entrega": "7 a 15 dias úteis"
     },
     {
       "id": 7,
-      "titulo": "Calça Vento",
-      "categoria": "Calça",
+      "titulo": "Conjunto Vento",
+      "categoria": "Conjunto",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918765/cal%C3%A7a-vento_ri8crv.png",
-      "valor": 289.0,
-      "descricao": "Calça pantalona em linho, cintura alta com elástico interno e amarração frontal. Fluidez e conforto para dias quentes.",
-      "composicao": "100% linho",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790793242/Imagem_do_ChatGPT_30_de_set._de_2026_15_33_43_nrbkaw.png",
+      "valor": 859.0,
+      "descricao": "Calça e camisa de modelagens amplas confeccionadas em crochê de trama aberta, com volume suave e acabamento ajustado no tornozelo da calça.",
+      "composicao": "100% algodão, tecido à mão em crochê",
       "tamanhos": [
         "P",
         "M",
-        "G"
+        "G",
+        "GG"
       ],
-      "feitoAMao": false,
+      "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "5 a 10 dias úteis"
+      "entrega": "7 a 15 dias úteis"
     },
     {
       "id": 8,
-      "titulo": "Vestido Vermelho",
+      "titulo": "Vestido Terra",
       "categoria": "Vestido",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918907/vestido-vermelho_eubfu9.png",
-      "valor": 429.0,
-      "descricao": "Vestido midi em viscolinho, decote V e cinto de amarrar na cintura. Peça versátil do dia à noite.",
-      "composicao": "70% viscose, 30% linho",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790793675/Imagem_do_ChatGPT_30_de_set._de_2026_15_40_52_lc1tbz.png",
+      "valor": 549.0,
+      "descricao": "Vestido curto de alças finas confeccionado em crochê de trama encorpada, com modelagem levemente ajustada e aplicações artesanais na barra.",
+      "composicao": "100% algodão, tecido à mão em crochê, com aplicações decorativas em fio metalizado",
       "tamanhos": [
-        "PP",
         "P",
         "M",
-        "G"
+        "G",
+        "GG"
       ],
-      "feitoAMao": false,
+      "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "5 a 10 dias úteis"
+      "entrega": "7 a 15 dias úteis"
     },
     {
       "id": 9,
-      "titulo": "Vestido Dourado",
+      "titulo": "Vestido Trama",
       "categoria": "Vestido",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918894/vestido-dourado-1_vfff55.png",
-      "valor": 519.0,
-      "valorComDesconto": 439.0,
-      "descricao": "Vestido longo em tecido acetinado com caimento fluido e alças reguláveis. Ideal para ocasiões especiais.",
-      "composicao": "95% viscose, 5% elastano",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790793841/Imagem_do_ChatGPT_30_de_set._de_2026_15_43_30_bbctgq.png",
+      "valor": 1889.0,
+      "valorComDesconto": 1289.0,
+      "descricao": "Vestido longo artesanal em macramê de trama aberta, com mangas amplas e caimento fluido. ",
+      "composicao": "Fios de algodão natural e viscose com acabamento metalizado dourado, trabalhados à mão em macramê, forro em seda e detalhes em pérolas",
       "tamanhos": [
         "P",
         "M",
-        "G"
+        "G",
+        "GG"
       ],
-      "feitoAMao": false,
+      "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "7 a 12 dias úteis"
+      "entrega": "10 a 20 dias úteis"
     },
     {
       "id": 10,
-      "titulo": "Poltrona Orbe",
-      "categoria": "Poltrona",
-      "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918853/poltrona-orbe_tu4moz.png",
-      "valor": 3890.0,
-      "descricao": "Poltrona de formas arredondadas, estofada em bouclé cru com pés palito em madeira escura. Conforto e presença em qualquer canto da casa.",
-      "composicao": "100% bouclé (poliéster reciclado), pés em madeira de freijó",
-      "dimensoes": {
-        "largura": "80 cm",
-        "profundidade": "75 cm",
-        "altura": "72 cm"
-      },
-      "feitoAMao": true,
-      "origem": "Brasil",
-      "entrega": "12 a 20 dias úteis"
+        "titulo": "Poltrona Orbe",
+        "categoria": "Poltrona",
+        "colecao": "habitar",
+        "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790794489/Imagem_do_ChatGPT_30_de_set._de_2026_15_52_15_snfk7p.png",
+        "valor": 890.0,
+        "descricao": "Poltrona escultural de formas arredondadas, com base em arco e encosto cilíndrico que cria uma composição leve e inesperada.",
+        "composicao": "Estrutura em madeira de eucalipto, espuma de alta densidade e revestimento em tecido de linho e algodão",
+        "dimensoes": {
+          "largura": "92 cm",
+          "profundidade": "72 cm",
+          "altura": "86 cm"
+        },
+        "feitoAMao": true,
+        "origem": "Brasil",
+        "entrega": "15 a 25 dias úteis"
     },
     {
       "id": 11,
       "titulo": "Manta Aconchego",
       "categoria": "Manta",
       "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918844/manta-aconchego_eufnrn.png",
-      "valor": 259.0,
-      "descricao": "Manta tricotada em lã e algodão, textura canelada e franjas nas bordas. Ideal para o sofá ou o pé da cama nos dias mais frios.",
-      "composicao": "60% lã, 40% algodão",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790794808/Imagem_do_ChatGPT_30_de_set._de_2026_15_59_49_hss0uf.png",
+      "valor": 189.0,
+      "descricao": "Manta artesanal de trama aberta e textura encorpada, crochetada em fio de algodão natural.",
+      "composicao": "100% algodão natural, tecido à mão",
       "dimensoes": {
         "largura": "130 cm",
-        "comprimento": "180 cm"
+        "profundidade": "0,5 cm",
+        "altura": "180 cm"
       },
       "feitoAMao": true,
       "origem": "Brasil",
@@ -204,34 +206,36 @@
     },
     {
       "id": 12,
-      "titulo": "Tapete Trançado Cru",
+      "titulo": "Tapete Caminho",
       "categoria": "Tapete",
       "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918879/tapete-tran%C3%A7ado_hbc8rs.png",
-      "valor": 1190.0,
-      "valorComDesconto": 990.0,
-      "descricao": "Tapete artesanal em fibra de juta trançada à mão, base antiderrapante. Textura natural que aquece qualquer ambiente.",
-      "composicao": "100% juta natural, base em látex antiderrapante",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790795202/Imagem_do_ChatGPT_30_de_set._de_2026_16_06_15_zxseuc.png",
+      "valor": 1890.0,
+      "valorComDesconto": 1590.0,
+      "descricao": "Tapete artesanal de formato orgânico, trançado à mão com fibras naturais em diferentes espessuras.",
+      "composicao": "Fibras naturais de juta e sisal trançadas à mão",
       "dimensoes": {
         "largura": "200 cm",
-        "comprimento": "300 cm"
+        "profundidade": "1,5 cm",
+        "altura": "250 cm"
       },
       "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "10 a 15 dias úteis"
+      "entrega": "15 a 25 dias úteis"
     },
     {
       "id": 13,
       "titulo": "Almofada Duna",
       "categoria": "Almofada",
       "colecao": "habitar",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918814/almofada-duna_um0m5r.png",
-      "valor": 179.0,
-      "descricao": "Almofada em linho encorpado com enchimento em fibra siliconizada e zíper invisível. Vendida individualmente.",
-      "composicao": "100% linho, enchimento em fibra siliconizada",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790795682/Imagem_do_ChatGPT_30_de_set._de_2026_16_14_19_fsvooy.png",
+      "valor": 119.0,
+      "descricao": "Almofada de toque macio e textura irregular, inspirada nas formas e superfícies naturais das dunas.",
+      "composicao": "Revestimento em algodão natural de trama felpuda e enchimento em fibra siliconada reciclada",
       "dimensoes": {
-        "largura": "50 cm",
-        "altura": "50 cm"
+        "largura": "60 cm",
+        "profundidade": "18 cm",
+        "altura": "60 cm"
       },
       "feitoAMao": true,
       "origem": "Brasil",
@@ -239,77 +243,61 @@
     },
     {
       "id": 14,
-      "titulo": "Camisa Linho Areia",
+      "titulo": "Camisa Brisa",
       "categoria": "Camisa",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918832/camisa-linho-1_kzoxt2.png",
-      "valor": 269.0,
-      "descricao": "Camisa de manga longa em linho puro, botões de madrepérola e caimento solto. Respirável e elegante para o dia a dia.",
-      "composicao": "100% linho",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790796762/Imagem_do_ChatGPT_30_de_set._de_2026_16_28_29_hkb1mb.png",
+      "valor": 379.0,
+      "descricao": "Camisa ampla em linho natural, com modelagem fluida, ombros deslocados e mangas volumosas que valorizam o movimento do tecido.",
+      "composicao": "100% linho natural",
       "tamanhos": [
         "P",
         "M",
         "G",
         "GG"
       ],
-      "feitoAMao": false,
+      "feitoAMao": true,
       "origem": "Brasil",
       "entrega": "5 a 10 dias úteis"
     },
     {
       "id": 15,
-      "titulo": "Saia Midi Trançada",
+      "titulo": "Saia Maré",
       "categoria": "Saia",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918860/saia-midi_dmujm4.png",
-      "valor": 219.0,
-      "descricao": "Saia midi em crochê trançado à mão, forro interno em algodão e fechamento em botões frontais.",
-      "composicao": "70% algodão, 30% viscose (forro 100% algodão)",
-      "tamanhos": [
-        "PP",
-        "P",
-        "M",
-        "G"
-      ],
-      "feitoAMao": true,
-      "origem": "Brasil",
-      "entrega": "8 a 14 dias úteis"
-    },
-    {
-      "id": 16,
-      "titulo": "Blazer Alfaiataria Cru",
-      "categoria": "Blazer",
-      "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786918776/blaze-alfaiataria_keydti.png",
-      "valor": 489.0,
-      "valorComDesconto": 399.0,
-      "descricao": "Blazer estruturado em mescla de linho e algodão, forro interno leve e botões emborrachados. Corte reto, unissex.",
-      "composicao": "55% linho, 45% algodão",
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790796928/Imagem_do_ChatGPT_30_de_set._de_2026_16_35_16_qxp6ah.png",
+      "valor": 449.0,
+      "descricao": "Saia midi artesanal em macramê de trama aberta, com desenho geométrico formado por pequenos nós que criam textura e movimento.",
+      "composicao": "100% algodão natural, trabalhado à mão em macramê, com forro em cambraia de algodão",
       "tamanhos": [
         "P",
         "M",
         "G",
         "GG"
       ],
-      "feitoAMao": false,
+      "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "7 a 12 dias úteis"
+      "entrega": "7 a 15 dias úteis"
     },
     {
-      "id": 17,
-      "titulo": "Meia Bota Trançada",
-      "categoria": "Acessório",
+      "id": 16,
+      "titulo": "Bolsa Trama",
+      "categoria": "Bolsa",
       "colecao": "vestir",
-      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1786919177/meia-bota_lfxrvb.png",
-      "valor": 89.0,
-      "descricao": "Par de meias altas em tricô canelado, elástico reforçado no cano. Confortáveis para usar com botas ou em casa.",
-      "composicao": "80% algodão, 20% poliamida",
-      "tamanhos": [
-        "Único"
-      ],
-      "feitoAMao": false,
+      "imagem": "https://res.cloudinary.com/dvyn7uwsv/image/upload/v1790797103/Imagem_do_ChatGPT_30_de_set._de_2026_16_38_06_j6vxgn.png",
+      "valor": 789.0,
+      "valorComDesconto": 689.0,
+      "descricao": "Bolsa artesanal de estrutura ampla e trama encorpada, tecida à mão com fibra natural em tom caramelo.",
+      "composicao": "Fibra natural de ráfia trançada à mão, com forro interno em algodão cru",
+      "dimensoes": {
+        "largura": "38 cm",
+        "profundidade": "12 cm",
+        "altura": "30 cm"
+      },
+      "feitoAMao": true,
       "origem": "Brasil",
-      "entrega": "3 a 7 dias úteis"
+      "entrega": "7 a 15 dias úteis"
+
     }
   ]
 }
