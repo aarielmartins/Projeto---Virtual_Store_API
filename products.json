@@ -31,7 +31,10 @@
         "P",
         "M",
         "G",
-        "GG"
+        "GG",
+        "G1",
+        "G2",
+        "G3"
       ],
       "feitoAMao": true,
       "origem": "Brasil",
@@ -86,7 +89,10 @@
         "P",
         "M",
         "G",
-        "GG"
+        "GG",
+        "G1",
+        "G2",
+        "G3"
       ],
       "feitoAMao": true,
       "origem": "Brasil",
@@ -123,7 +129,10 @@
         "P",
         "M",
         "G",
-        "GG"
+        "GG",
+        "G1",
+        "G2",
+        "G3"
       ],
       "feitoAMao": true,
       "origem": "Brasil",
@@ -161,7 +170,10 @@
         "P",
         "M",
         "G",
-        "GG"
+        "GG",
+        "G1",
+        "G2",
+        "G3"
       ],
       "feitoAMao": true,
       "origem": "Brasil",
@@ -177,11 +189,14 @@
         "descricao": "Blusa ampla em linho natural com mangas largas e bordados vazados de inspiração botânica.",
         "composicao": "100% linho, com bordados em fio de algodão e forro frontal em cambraia de algodão",
         "tamanhos": [
-          "P",
-          "M",
-          "G",
-          "GG"
-        ],
+        "P",
+        "M",
+        "G",
+        "GG",
+        "G1",
+        "G2",
+        "G3"
+      ],
         "feitoAMao": true,
         "origem": "Brasil",
         "entrega": "7 a 15 dias úteis"
@@ -254,7 +269,10 @@
         "P",
         "M",
         "G",
-        "GG"
+        "GG",
+        "G1",
+        "G2",
+        "G3"
       ],
       "feitoAMao": true,
       "origem": "Brasil",
@@ -273,7 +291,10 @@
         "P",
         "M",
         "G",
-        "GG"
+        "GG",
+        "G1",
+        "G2",
+        "G3"
       ],
       "feitoAMao": true,
       "origem": "Brasil",
